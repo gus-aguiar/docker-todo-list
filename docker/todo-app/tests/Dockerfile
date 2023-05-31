@@ -1,4 +1,4 @@
-FROM mjgargani/puppeteer:trybe1.0
+FROM mjgargani/puppeteer:trybe1.0 AS todotests
 
 
 WORKDIR /app
